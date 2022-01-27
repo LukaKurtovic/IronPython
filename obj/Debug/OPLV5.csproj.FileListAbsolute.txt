@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OPLV5\OPLV5\bin\Debug\OPLV5.exe.config
+C:\Users\User\source\repos\OPLV5\OPLV5\bin\Debug\OPLV5.exe
+C:\Users\User\source\repos\OPLV5\OPLV5\bin\Debug\OPLV5.pdb
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.Form1.resources
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.Properties.Resources.resources
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.exe
+C:\Users\User\source\repos\OPLV5\OPLV5\obj\Debug\OPLV5.pdb
